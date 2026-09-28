@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "El mundo de Ania",
+  "short_name": "Ania",
+  "description": "Dibuja, colorea y juega con El mundo de Ania.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8fc",
+  "theme_color": "#ffb7d7",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
